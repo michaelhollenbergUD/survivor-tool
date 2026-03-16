@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/survivor-strategy/static/js/main.c48d9406.js",
-    "index.html": "/survivor-strategy/index.html",
-    "main.c48d9406.js.map": "/survivor-strategy/static/js/main.c48d9406.js.map"
+    "main.js": "/survivor-tool/static/js/main.c48d9406.js",
+    "index.html": "/survivor-tool/index.html",
+    "main.c48d9406.js.map": "/survivor-tool/static/js/main.c48d9406.js.map"
   },
   "entrypoints": [
     "static/js/main.c48d9406.js"
