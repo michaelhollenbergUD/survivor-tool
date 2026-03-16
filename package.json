@@ -1,7 +1,7 @@
 {
   "name": "survivor-strategy",
   "version": "1.0.0",
-  "homepage": "https://YOUR-GITHUB-USERNAME.github.io/survivor-strategy",
+  "homepage": "https://michaelhollenbergUD.github.io/survivor-strategy",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -12,26 +12,3 @@
     "build": "react-scripts build"
   }
 }
-```
-
-⚠️ Replace **`YOUR-GITHUB-USERNAME`** with your actual GitHub username and **`survivor-strategy`** with your exact repo name.
-
-Click **"Commit changes"**
-
----
-
-### Step 3: Enable GitHub Pages
-
-1. In your repo click **Settings**
-2. Scroll down to **"Pages"** in the left sidebar
-3. Under **"Source"** select **"Deploy from a branch"**
-4. Under **"Branch"** select **`gh-pages`** and **`/ (root)`**
-5. Click **Save**
-
----
-
-### Step 4: Wait ~2 minutes
-
-Go to the **"Actions"** tab in your repo. You'll see a workflow running with a yellow spinner. When it turns to a green checkmark — your site is live at:
-```
-https://YOUR-GITHUB-USERNAME.github.io/survivor-strategy
